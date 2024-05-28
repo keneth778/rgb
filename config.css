@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+}
+:root {
+    --c1: rgb(255, 87, 51);    /* Naranja Vibrante */
+    --c2: rgb(51, 255, 87);    /* Verde Claro */
+    --c3: rgb(51, 87, 255);    /* Azul Brillante */
+    --c4: rgb(255, 51, 168);   /* Rosa Chicle */
+    --c5: rgb(51, 255, 246);   /* Cian Claro */
+    --c6: rgb(255, 209, 51);   /* Amarillo Suave */
+    --c7: rgb(125, 51, 255);   /* Púrpura */
+    --c8: rgb(255, 111, 51);   /* Naranja Rojizo */
+    --c9: rgb(51, 255, 221);   /* Verde Menta */
+    --c10: rgb(255, 51, 241);  /* Magenta */
+}
